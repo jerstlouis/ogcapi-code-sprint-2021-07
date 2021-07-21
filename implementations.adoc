@@ -59,6 +59,10 @@
 | OGC API - Records
 | https://github.com/tomkralidis[Tom Kralidis]
 
+| https://ecere.ca/gnosis[GNOSIS Cartographer]
+| OGC API - Features/Coverages/Maps/Tiles/Styles/Processes (Workflows)
+| https://github.com/jerstlouis[Jerome St-Louis]
+
 | TBA
 | TBA
 | TBA
