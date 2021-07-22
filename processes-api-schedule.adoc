@@ -13,7 +13,7 @@ Please add your GitHub handle to the table below, so that other participants kno
 3+|*22nd July 2021*
 |07:00-09:00 |Practical work|
 |10:00-12:30 |Practical work|
-|13:30-16:30 |Practical work|
+|13:30-16:30 |Practical work - Workflows discussions|@jerstlouis
 3+|*23rd July 2021*
 |07:00-09:00 |Practical work|
 |10:00-12:30 |Practical work|
